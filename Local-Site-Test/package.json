@@ -1,0 +1,17 @@
+{
+  "name": "protractor-local-test",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-reporters": "^2.0.0",
+    "protractor": "5.4.2",
+    "protractor-html-screenshot-reporter": "0.0.21",
+    "protractor-jasmine2-html-reporter": "0.0.6"
+  },
+  "scripts": {
+    "update": "webdriver-manager update",
+    "readVersion": "Protractor --version",
+    "test": "Protractor config.js",
+    "testWithReport": "Protractor config-Report.js"
+  }
+}
