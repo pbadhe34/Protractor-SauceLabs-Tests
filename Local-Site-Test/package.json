@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {},
   "devDependencies": {
-    "jasmine-reporters": "^2.0.0",
+    "jasmine-reporters": "^2.5.0",
     "protractor": "5.4.2",
     "protractor-html-screenshot-reporter": "0.0.21",
     "protractor-jasmine2-html-reporter": "0.0.6"
